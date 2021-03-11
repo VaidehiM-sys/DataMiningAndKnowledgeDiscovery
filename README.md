@@ -1,6 +1,6 @@
 # Data Mining And Knowledge Discovery
  
-1. Wine Quality Data Analysis
+## 1. Wine Quality Data Analysis
 
 Data Analysis performed on Red Wine and White Wine dataset to model wine quality based on physicochemical tests or measurements. Each wine sample is described by Eleven sensor measurements (or features) and One output label (quality level). The eleven attributes include: 
   * 1 - fixed acidity
