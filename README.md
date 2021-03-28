@@ -22,4 +22,6 @@ More details about these 12 attributes can be found in the reference: P. Cortez,
 
 Histograms, boxplots, scatterplots and between-sample similarity matrices over each of the two datasets were plotted. 
 
+## 2. Decision Tree and K-nearest Neighbor for Wine Quality Dataset
 
+Implementation of Decision Tree and K-nearest Neighbor Classification on the Wine Quality dataset.
