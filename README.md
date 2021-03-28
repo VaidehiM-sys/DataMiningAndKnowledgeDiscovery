@@ -25,3 +25,7 @@ Histograms, boxplots, scatterplots and between-sample similarity matrices over e
 ## 2. Decision Tree and K-nearest Neighbor for Wine Quality Dataset
 
 Implementation of Decision Tree and K-nearest Neighbor Classification on the Wine Quality dataset.
+Calculation of GINI index, misclassification error and entropy of this sample set.
+Calculation of the confusion matrix for a binary classifier.
+Traning and testing of KNN model with values K=1,3,5,7 and 9. 
+Calculation of ROC curves and AUC values of the five KNN models over testing samples of positive class. 
