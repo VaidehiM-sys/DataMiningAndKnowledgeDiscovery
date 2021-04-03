@@ -1,0 +1,13 @@
+Weather Condition;Driver's Condition;Traffic Violation;Seat Belt;Crash Severity
+Good;Alcohol-impaired;Exceed speed limit;No;Major
+Bad;Sober;None;Yes;Minor
+Good;Sober;Disobey stop sign;Yes;Minor
+Good;Sober;Exceed speed limit;Yes;Major
+Bad;Sober;Disobey traffic signal;No;Major
+Good;Alcohol-impaired;Disobey stop sign;Yes;Minor
+Bad;Alcohol-impaired;None;Yes;Major
+Good;Sober;Disobey traffic signal;Yes;Major
+Good;Alcohol-impaired;None;No;Major
+Bad;Sober;Disobey traffic signal;No;Major
+Good;Alcohol-impaired;Exceed speed limit;Yes;Major
+Bad;Sober;Disobey stop sign;Yes;Minor
