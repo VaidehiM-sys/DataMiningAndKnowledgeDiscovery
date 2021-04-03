@@ -33,3 +33,10 @@ Calculation of the confusion matrix for a binary classifier.
 Traning and testing of KNN model with values K=1,3,5,7 and 9. 
 
 Calculation of ROC curves and AUC values of the five KNN models over testing samples of positive class. 
+
+## 3. Association Rule Mining uisng Apriori Algorithm
+
+Considering traffic accident data, discovered the associate patterns.
+
+A script to generate the frequent itemsets using any threshold for the minimal support. 
+An Apriori algorithm to generate the association rules with high confidences.
